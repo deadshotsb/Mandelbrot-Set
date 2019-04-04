@@ -1,2 +1,5 @@
 # Mandelbrot-Set
-The Mandelbrot Set is a fascinating art which is made by Benoit Mandelbrot
+
+I guess you have heard about fractals. 
+Sets like Julia Set and Mandelbrot Set are totally connected to complex fractals.
+It is a fascinating piece of art first discovered by mathematician Benoit Mandelbrot.
